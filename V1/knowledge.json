@@ -1,5 +1,26 @@
 {
-  "Knowledge_DB": [{
+  "Knowledge_DB": [
+    {
+    "mmtitle": "ချင်းရွှေဟော်မြို့",
+    "engtitle": "Chin Shwe Haw Town",
+    "author": "Admin",
+    "source": "Wiki",
+    "timeStamp": "1703216794159",
+    "mmcontent": "ချင်းရွှေဟော်မြို့ သည် မြန်မာနိုင်ငံ၊ ရှမ်းပြည်နယ်၊ လောက်ကိုင်ခရိုင်၊ လောက်ကိုင်မြို့နယ်ရှိ မြို့တစ်မြို့ဖြစ်ပြီး တရုတ်နိုင်ငံနှင့် နယ်နမိတ်ချင်း ထိစပ်လျက်ရှိသည်။ ချင်းရွှေဟော်သည် တရုတ်-မြန်မာနယ်စပ် ကုန်သွယ်ရေးစခန်း ငါးခုအနက် တစ်ခုအပါအဝင်ဖြစ်ပြီး ၂၀၀၃ ခုနှစ် အောက်တိုဘာလ ၁၉ ရက်နေ့တွင် နယ်စပ်ကုန်သွယ်ရေးစခန်းကို ဖွင့်လှစ်ခဲ့သည်။ ၂၀၂၂ ခုနှစ်အတွင်း စုစုပေါင်း ကုန်သွယ်ပမာဏမှာ အမေရိကန်ဒေါ်လာ ၂၈၃.၃၉၆ သန်း ဖြစ်သည်။\n\nနွေဦးတော်လှန်ရေး စစ်ကာလအတွင်း ၂၀၂၃ ခုနှစ် အောက်တိုဘာလ ၂၈ ရက်နေ့တွင် ချင်းရွှေဟော်မြို့အား မြန်မာအမျိုးသား ဒီမိုကရက်တစ် မဟာမိတ်တပ်မတော်က သိမ်းပိုက်ထိန်းချုပ်ခဲ့သည်။",
+    "engcontent": "Chinshwehaw (Burmese: ချင်းရွှေဟော်မြို့) is a town in Laukkaing Township, Laukkaing District, Shan State of Myanmar.The town borders Qingshuihe Village of the Gengma Dai and Va Autonomous County, Yunnan Province, China. The town is home to one of 5 official border trade posts with China, and opened on 19 October 2003. In 2022, total trade volume at the border post stood at US$283.396 million.\n\nOn 28 October 2023 it was reported that the town had come fully under control of the Myanmar National Democratic Alliance Army (MNDAA) during the ongoing civil war.",
+    "image": "https://burmese.shannews.org/wp-content/uploads/2023/10/396506482_688892326671710_8403596024368294602_n.jpg"
+    },
+    {
+    "mmtitle": "ကွမ်းလုံမြို့",
+    "engtitle": "Kunlong Town",
+    "author": "Admin",
+    "source": "Wiki",
+    "timeStamp": "1703217018877",
+    "mmcontent": "ကွမ်းလုံမြို့သည် ရှမ်းပြည်နယ် မြောက်ပိုင်း၊ လားရှိုးခရိုင်၊ ကွမ်းလုံမြို့နယ်၏ ခရိုင်ရုံးစိုက်ရာမြို့ ဖြစ်သည်။[၂] မြန်မာ့တပ်မတော်နှင့် ဗမာပြည်ကွန်မြူနစ်ပါတီတို့၏ ၁၉၇၁ ခုနှစ် နိုဝင်ဘာလမှ ၁၉၇၂ ခုနှစ် ဇန်နဝါရီလအထိ ၄၂ ရက်ကြာ တိုက်ပွဲဖြစ်ပွားခဲ့သည့် သံလွင်မြစ်ပေါ်ရှိ ကွမ်းလုံတံတား တည်ရှိရာ မြို့လည်းဖြစ်သည်။\n\n\nကွမ်းလုံကြိုးတံတား\nပြည်တွင်းစစ်ကာလအတွင်း ၂၀၂၃ ခုနှစ် နိုဝင်ဘာလ ၉ ရက်နေ့တွင် ကွမ်းလုံမြို့နှင့် ကွမ်းလုံတံတားတို့အား မြန်မာအမျိုးသား ဒီမိုကရက်တစ် မဟာမိတ်တပ်မတော်က သိမ်းပိုက်ထိန်းချုပ်ခဲ့သည်။",
+    "engcontent": "Kunlong (Burmese: ကွမ်းလုံ) is the capital town of Kunlong Township in Shan State. its coordination is 23 25' 00\" N and 98 39' 00\" E.[2]\n\nThe Wa people inhabit the hills immediately overlooking the Nam Ting valley. The town is divided into 6 wards.\n\nHistory\nIt is the home of Kunlong Bridge over the Salween River. There was a 42 days-long battle between Burma Communist Party (BCP) and Myanmar Army from November 1971 to January 1972 to control that strategic bridge.\n\nOn 9 November 2023, during Operation 1027, the Myanmar National Democratic Alliance Army (MNDAA) was able to capture the town of Kunlong and its bridge during the ongoing civil war.",
+    "image": "https://burma.irrawaddy.com/wp-content/uploads/2023/11/Kunlongnov17feat.jpg"
+    },
+    {
     "mmtitle": "ပူတာအိုမြို့",
     "engtitle": "Putao Town, Kachin State",
     "author": "Admin",
