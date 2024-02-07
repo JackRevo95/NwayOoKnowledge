@@ -1,11 +1,15 @@
 {
-  "Knowledge_DB": [
-    
-
-    
-
-    
-    {
+  "Knowledge_DB": [{
+        "mmtitle": "ဘောလုတောင်",
+        "engtitle": "Baulu Taung",
+        "author": "Admin",
+        "source": "Wiki",
+        "timeStamp": "1707321372138",
+        "mmcontent": "ဘောလုတောင် သည် မြန်မာနိုင်ငံ၊ တနင်္သာရီတောင်တန်းရှိ တောင်တစ်ခု ဖြစ်သည်။\n\nပထဝီသွင်ပြင်\nမြင်းမိုရ်လက်ခတ်တောင် ၏ အရှေ့တောင်ဘက်တွင် တည်ရှိသည်။ ဘိလောက်တောင်ထိပ်၏ ပင်မနေရာလည်း ဖြစ်သည်။ တနင်္သာရီဒေသ၏ ကြီးမားသည့် လူသူမနေထိုင်သည့် နေရာတစ်ခုဖြစ်ပြီး တောထူထပ်သည်။ ထိုင်းနိုင်ငံနယ်နိမိတ်နှင့် အနောက်ဘက် ၉ ကီလိုမီတာအကွာတွင် တည်ရှိသည်။ အနီးဆုံးနေရာမှာ ဒသွယ်ကျောက်ရွာဖြစ်ပြီး မြစ်ကမ်းဘေးတွင် တည်ရှိသည့် ရွာတစ်ခု ဖြစ်သည်။",
+        "engcontent": "Baulu Taung is a mountain of the Tenasserim Hills, Burma.\n\nGeography\nBaulu Taung is located southeast of Myinmoletkat Taung, the main Bilauktaung peak, in a wooded and largely uninhabited area of the Tanintharyi Region, 9 km to the west of the border with Thailand. The nearest inhabited place is Dathwekyauk, a riverside village located roughly 15 km to the WNW.",
+        "image": "https://raw.githubusercontent.com/JackRevo95/jackrevo/main/Post/download.png"
+        },
+        {
         "mmtitle": "လွယ်ပန်နောင်",
         "engtitle": "Loi Pangnao",
         "author": "Admin",
