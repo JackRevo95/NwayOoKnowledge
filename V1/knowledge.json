@@ -1,5 +1,16 @@
 {
-  "Knowledge_DB": [{
+  "Knowledge_DB": [
+    {
+    "mmtitle": "ရှားတောမြို့",
+    "engtitle": "Shadaw Town",
+    "author": "Admin",
+    "source": "Wiki",
+    "timeStamp": "1707918988965",
+    "mmcontent": "ရှားတောမြို့ သည် မြန်မာနိုင်ငံ၊ ကယားပြည်နယ်၊ လွိုင်ကော်ခရိုင်တွင် ပါဝင်သည်။ ရှားတောမြို့နယ်၏ မြို့နယ်ရုံးစိုက်ရာ မြို့ ဖြစ်သည်။မြန်မာ-ထိုင်းနယ်စပ် ကယား (ကရင်နီ) ပြည်နယ်အရှေ့ဘက်ခြမ်းရှိ ရှားတောမြို့ကို စစ်ကောင်စီထံမှ အလုံးစုံ သိမ်းပိုက် ထိန်းချုပ်နိုင်ပြီဟု ကရင်နီတပ်မတော် (KA) မှ စစ်ရေးချုပ် ဗိုလ်မှူးကြီးဘုန်းနိုင်က ယနေ့ (ဖေဖော်ဝါရီ ၁၄) တွင် အတည်ပြုခဲ့သည်။",
+    "engcontent": "Shadaw (Burmese: ရှားတောမြို့) is a town in the Kayah State of eastern part of Burma.The Karenni Army (KA) Commander-in-Chief of the Karenni Army (KA) confirmed today (February 14) that Shataw Township in the eastern part of Kayah (Karenyi) Province on the Myanmar-Thai border has been completely captured and controlled from the Military Council.",
+    "image": "https://myanmar-now.org/mm/wp-content/uploads/sites/7/2024/02/signal-2024-02-14-170214_002-1536x1024.jpeg"
+    },
+    {
     "mmtitle": "မယ်လတောင်",
     "engtitle": "Mela Taung",
     "author": "Admin",
